@@ -1,7 +1,7 @@
 # PygameForBeginners
 A simple 2D python game designed.
 
-[Download](https://duckduckgo.com)
+[Download](https://github.com/gunwant11/Python-game-naruto/releases/tag/v1.0)
 
 
 Controls
